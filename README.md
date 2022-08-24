@@ -10,7 +10,7 @@
 
 [百度网盘](https://pan.baidu.com/s/1RUlLM1Ix9QqAuNUzJEs21Q) 提取码: q9q3
 
-## GOPRO Blur Kernel visualization
+## GOPRO Blur Kernel Visualization
 
 [Google Drive](https://drive.google.com/drive/folders/1GXHGNtNAj3YKTqdvIZNJUIZj6sEhBSEH?usp=sharing)
 
