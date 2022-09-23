@@ -38,11 +38,11 @@ From left to right are  Blur image, Gao et al.[19], SRN[16], MIMO-UNet+[23], Our
 ![Blur](./真实模糊图像/真实模糊图像-11/MIMO+11--concat.png "Blur")
 ![Blur](./真实模糊图像/真实模糊图像-11/CDCN11--concat.png "Blur")
 
-![Blur](./真实模糊图像/真实模糊图像-12/Blur12--concat.pdf "Blur")
-![Blur](./真实模糊图像/真实模糊图像-12/Gao12--concat.pdf "Blur")
-![Blur](./真实模糊图像/真实模糊图像-12/SRN12--concat.pdf "Blur")
-![Blur](./真实模糊图像/真实模糊图像-12/MIMO+12--concat.pdf "Blur")
-![Blur](./真实模糊图像/真实模糊图像-12/CDCN12--concat.pdf "Blur")
+![Blur](./真实模糊图像/真实模糊图像-12/Blur12--concat.tif "Blur")
+![Blur](./真实模糊图像/真实模糊图像-12/Gao12--concat.tif "Blur")
+![Blur](./真实模糊图像/真实模糊图像-12/SRN12--concat.tif "Blur")
+![Blur](./真实模糊图像/真实模糊图像-12/MIMO+12--concat.tif "Blur")
+![Blur](./真实模糊图像/真实模糊图像-12/CDCN12--concat.tif "Blur")
 
 ![Blur](./真实模糊图像/真实模糊图像-13/Blur13--concat.png "Blur")
 ![Blur](./真实模糊图像/真实模糊图像-13/Gao13--concat.png "Blur")
